@@ -3,7 +3,7 @@
 ![npm version](https://img.shields.io/npm/v/env-check-cli)
 ![downloads](https://img.shields.io/npm/dw/env-check-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-[![Node.js CI](https://github.com/thegreatbey/env-check-cli/actions/workflows/node-ci.yml/badge.svg)](https://github.com/thegreatbey/env-check-cli/actions)
+[![CI/CD](https://github.com/thegreatbey/env-check-cli/actions/workflows/publish.yml/badge.svg)](https://github.com/thegreatbey/env-check-cli/actions)
 [![Code Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://standardjs.com/)
 [![npm install](https://img.shields.io/badge/npm%20install--g%20env-check-cli-blue.svg)](https://www.npmjs.com/package/env-check-cli)
 
