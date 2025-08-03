@@ -1,0 +1,35 @@
+{
+  "name": "env-check-cli",
+  "version": "0.0.1",
+  "description": "CLI tool to check if required environment variables are set",
+  "bin": {
+    "env-check-cli": "./bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "test": "npx vitest run"
+  },
+  "keywords": [
+  "env",
+  "environment",
+  "cli",
+  "dotenv",
+  "check",
+  "node",
+  "configuration",
+  "automation",
+  "validation",
+  "devops",
+  "ci",
+  "cd",
+  "environment variables",
+  "secure config",
+  "build tools"
+],
+  "author": "cavani21",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
